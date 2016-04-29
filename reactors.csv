@@ -1,0 +1,101 @@
+NAME,LINK,DOCKET,TYPE,LOCATION,OWNER,REGION
+Arkansas Nuclear 1,/info-finder/reactors/ano1.html,05000313,PWR,"6 miles WNW of Russellville,  AR","Entergy Nuclear Operations, Inc.",4
+Arkansas Nuclear 2,/info-finder/reactors/ano2.html,05000368,PWR,"6 miles WNW of Russellville,  AR","Entergy Nuclear Operations, Inc.",4
+Beaver Valley 1,/info-finder/reactors/bv1.html,05000334,PWR,"17 miles W of McCandless,  PA",FirstEnergy Nuclear Operating Co.,1
+Beaver Valley 2,/info-finder/reactors/bv2.html,05000412,PWR,"17 miles W of McCandless,  PA",FirstEnergy Nuclear Operating Co.,1
+Braidwood 1,/info-finder/reactors/brai1.html,05000456,PWR,"20 miles SSW of Joliet,  IL","Exelon Generation Co., LLC",3
+Braidwood 2,/info-finder/reactors/brai2.html,05000457,PWR,"20 miles SSW of Joliet,  IL","Exelon Generation Co., LLC",3
+Browns Ferry 1,/info-finder/reactors/bf1.html,05000259,BWR,"32 miles W of Huntsville,  AL",Tennessee Valley Authority,2
+Browns Ferry 2,/info-finder/reactors/bf2.html,05000260,BWR,"32 miles W of Huntsville,  AL",Tennessee Valley Authority,2
+Browns Ferry 3,/info-finder/reactors/bf3.html,05000296,BWR,"32 miles W of Huntsville,  AL",Tennessee Valley Authority,2
+Brunswick 1,/info-finder/reactors/bru1.html,05000325,BWR,"40 miles S of Wilmington,  NC",Progress Energy,2
+Brunswick 2,/info-finder/reactors/bru2.html,05000324,BWR,"40 miles S of Wilmington,  NC",Progress Energy,2
+Byron 1,/info-finder/reactors/byro1.html,05000454,PWR,"17 miles SW of Rockford,  IL","Exelon Generation Co., LLC",3
+Byron 2,/info-finder/reactors/byro2.html,05000455,PWR,"17 miles SW of Rockford,  IL","Exelon Generation Co., LLC",3
+Callaway,/info-finder/reactors/call.html,05000483,PWR,"25 miles ENE of Jefferson  City, MO",Ameren UE,4
+Calvert Cliffs 1,/info-finder/reactors/calv1.html,05000317,PWR,"40 miles S of Annapolis,  MD",Constellation Energy,1
+Calvert Cliffs 2,/info-finder/reactors/calv2.html,05000318,PWR,"40 miles S of Annapolis,  MD",Constellation Energy,1
+Catawba 1,/info-finder/reactors/cat1.html,05000413,PWR,"18 miles S of Charlotte, NC","Duke Energy Power Company, LLC",2
+Catawba 2,/info-finder/reactors/cat2.html,05000414,PWR,"18 miles S of Charlotte, NC","Duke Energy Power Company, LLC",2
+Clinton,/info-finder/reactors/clin.html,05000461,BWR,"23 miles SSE of  Bloomington, IL","Exelon Generation Co., LLC",3
+Columbia Generating Station,/info-finder/reactors/wash2.html,05000397,BWR,"20 miles NNE of Pasco, WA",Energy Northwest,4
+Comanche Peak 1,/info-finder/reactors/cp1.html,05000445,PWR,"40 miles SW of Fort Worth,  TX",TXU Generating Company LP,4
+Comanche Peak 2,/info-finder/reactors/cp2.html,05000446,PWR,"40 miles SW of Fort Worth,  TX",TXU Generating Company LP,4
+Cooper,/info-finder/reactors/cns.html,05000298,BWR,"23 miles S of Nebraska City,  NE",Nebraska Public Power District,4
+D.C. Cook 1,/info-finder/reactors/cook1.html,05000315,PWR,"13 miles S of Benton Harbor,  MI",Indiana/Michigan Power Co.,3
+D.C. Cook 2 ,/info-finder/reactors/cook2.html,05000316,PWR,"13 miles S of Benton Harbor,  MI",Indiana/Michigan Power Co.,3
+Davis-Besse,/info-finder/reactors/davi.html,05000346,PWR,"21 miles ESE of Toledo,  OH",FirstEnergy Nuclear Operating Co.,3
+Diablo Canyon 1,/info-finder/reactors/diab1.html,05000275,PWR,"12 miles WSW of San Luis Obispo,  CA",Pacific Gas & Electric Co.,4
+Diablo Canyon 2,/info-finder/reactors/diab2.html,05000323,PWR,"12 miles WSW of San Luis Obispo,  CA",Pacific Gas & Electric Co.,4
+Dresden 2,/info-finder/reactors/dres2.html,05000237,BWR,"25 miles SW of Joliet, IL","Exelon Generation Co., LLC",3
+Dresden 3,/info-finder/reactors/dres3.html,05000249,BWR,"25 miles SW of Joliet, IL","Exelon Generation Co., LLC",3
+Duane Arnold,/info-finder/reactors/duan.html,05000331,BWR,"8 miles NW of Cedar Rapids,  IA","NextEra Energy Duane Arnold, LLC",3
+Farley 1,/info-finder/reactors/far1.html,05000348,PWR,"18 miles SE of Dothan,  AL",Southern Nuclear Operating Co.,2
+Farley 2,/info-finder/reactors/far2.html,05000364,PWR,"18 miles SE of Dothan,  AL",Southern Nuclear Operating Co.,2
+Fermi 2,/info-finder/reactors/ferm2.html,05000341,BWR,"25 miles NE of Toledo,  OH",DTE Electric Company,3
+FitzPatrick,/info-finder/reactors/fitz.html,05000333,BWR,"6 miles NE of Oswego,  NY","Entergy Nuclear Operations, Inc.",1
+Fort Calhoun,/info-finder/reactors/fcs.html,05000285,PWR,"19 miles N of Omaha,  NE",Omaha Public Power District,4
+Ginna,/info-finder/reactors/ginn.html,05000244,PWR,"20 miles NE of Rochester,  NY",Constellation Energy,1
+Grand Gulf 1,/info-finder/reactors/gg1.html,05000416,BWR,"20 miles S of Vicksburg,  MS","Entergy Nuclear Operations, Inc.",4
+Hatch 1,/info-finder/reactors/hat1.html,05000321,BWR,"20 miles S of Vidalia, GA","Southern Nuclear Operating Co., Inc.",2
+Hatch 2,/info-finder/reactors/hat2.html,05000366,BWR,"20 miles S of Vidalia, GA","Southern Nuclear Operating Co., Inc.",2
+Hope Creek 1,/info-finder/reactors/hope.html,05000354,BWR,"18 miles SE of Wilmington,  DE","PSEG Nuclear, LLC",1
+Indian Point 2,/info-finder/reactors/ip2.html,05000247,PWR,"24 miles N of New York City,  NY","Entergy Nuclear Operations, Inc.",1
+Indian Point 3,/info-finder/reactors/ip3.html,05000286,PWR,"24 miles N of New York City,  NY","Entergy Nuclear Operations, Inc.",1
+La Salle 1,/info-finder/reactors/lasa1.html,05000373,BWR,"11 miles SE of Ottawa,  IL","Exelon Generation Co., LLC",3
+La Salle 2,/info-finder/reactors/lasa2.html,05000374,BWR,"11 miles SE of Ottawa,  IL","Exelon Generation Co., LLC",3
+Limerick 1,/info-finder/reactors/lim1.html,05000352,BWR,"21 miles NW of Philadelphia,  PA","Exelon Generation Co., LLC",1
+Limerick 2,/info-finder/reactors/lim2.html,05000353,BWR,"21 miles NW of Philadelphia,  PA","Exelon Generation Co., LLC",1
+McGuire 1,/info-finder/reactors/mcg1.html,05000369,PWR,"17 miles N of Charlotte,  NC","Duke Energy Power Company, LLC",2
+McGuire 2,/info-finder/reactors/mcg2.html,05000370,PWR,"17 miles N of Charlotte,  NC","Duke Energy Power Company, LLC",2
+Millstone 2,/info-finder/reactors/mill2.html,05000336,PWR,"3.2 miles WSW of New London,  CT",Dominion Generation,1
+Millstone 3,/info-finder/reactors/mill3.html,05000423,PWR,"3.2 miles WSW of New London,  CT",Dominion Generation,1
+Monticello,/info-finder/reactors/mont.html,05000263,BWR,"35 miles NW of Minneapolis,  MN",Northern States Power Company – Minnesota,3
+Nine Mile Point 1,/info-finder/reactors/nmp1.html,05000220,BWR,"6 miles NE of Oswego,  NY",Constellation Energy,1
+Nine Mile Point 2,/info-finder/reactors/nmp2.html,05000410,BWR,"6 miles NE of Oswego,  NY",Constellation Energy,1
+North Anna 1,/info-finder/reactors/na1.html,05000338,PWR,"40 miles NW of Richmond,  VA",Dominion Generation,2
+North Anna 2,/info-finder/reactors/na2.html,05000339,PWR,"40 miles NW of Richmond,  VA",Dominion Generation,2
+Oconee 1,/info-finder/reactors/oco1.html,05000269,PWR,"30 miles W of Greenville,  SC","Duke Energy Power Company, LLC",2
+Oconee 2,/info-finder/reactors/oco2.html,05000270,PWR,"30 miles W of Greenville,  SC","Duke Energy Power Company, LLC",2
+Oconee 3,/info-finder/reactors/oco3.html,05000287,PWR,"30 miles W of Greenville,  SC","Duke Energy Power Company, LLC",2
+Oyster Creek,/info-finder/reactors/oc.html,05000219,BWR,"9 miles S of Toms River,  NJ","Exelon Generation Co., LLC",1
+Palisades,/info-finder/reactors/pali.html,05000255,PWR,"5 miles S of South Haven,  MI","Entergy Nuclear Operations, Inc.",3
+Palo Verde 1,/info-finder/reactors/palo1.html,05000528,PWR,"50 miles W of Phoenix,  AZ",Arizona Public Service Co.,4
+Palo Verde 2,/info-finder/reactors/palo2.html,05000529,PWR,"50 miles W of Phoenix,  AZ",Arizona Public Service Co.,4
+Palo Verde 3,/info-finder/reactors/palo3.html,05000530,PWR,"50 miles W of Phoenix,  AZ",Arizona Public Service Co.,4
+Peach Bottom 2,/info-finder/reactors/pb2.html,05000277,BWR,"17.9 miles S of Lancaster,  PA","Exelon Generation Co., LLC",1
+Peach Bottom 3,/info-finder/reactors/pb3.html,05000278,BWR,"17.9 miles S of Lancaster,  PA","Exelon Generation Co., LLC",1
+Perry 1,/info-finder/reactors/perr1.html,05000440,BWR,"35 miles NE of Cleveland,  OH",FirstEnergy Nuclear Operating Co.,3
+Pilgrim 1,/info-finder/reactors/pilg.html,05000293,BWR,"38 miles SE of Boston, MA","Entergy Nuclear Operations, Inc.",1
+Point Beach 1,/info-finder/reactors/poin1.html,05000266,PWR,"13 miles NNW of Manitowoc,  WI","NextEra Energy Point Beach, LLC",3
+Point Beach 2,/info-finder/reactors/poin2.html,05000301,PWR,"13 miles NNW of Manitowoc,  WI","NextEra Energy Point Beach, LLC",3
+Prairie Island 1,/info-finder/reactors/prai1.html,05000282,PWR,"28 miles SE of Minneapolis,  MN",Northern States Power Company – Minnesota,3
+Prairie Island 2,/info-finder/reactors/prai2.html,05000306,PWR,"28 miles SE of Minneapolis,  MN",Northern States Power Company – Minnesota,3
+Quad Cities 1,/info-finder/reactors/quad1.html,05000254,BWR,"20 miles NE of Moline,  IL","Exelon Generation Co., LLC",3
+Quad Cities 2,/info-finder/reactors/quad2.html,05000265,BWR,"20 miles NE of Moline,  IL","Exelon Generation Co., LLC",3
+River Bend 1,/info-finder/reactors/rbs1.html,05000458,BWR,"24 miles NNW of Baton Rouge,  LA","Entergy Nuclear Operations, Inc.",4
+Robinson 2,/info-finder/reactors/rob2.html,05000261,PWR,"26 miles NW of Florence,  SC",Progress Energy,2
+Saint Lucie 1,/info-finder/reactors/stl1.html,05000335,PWR,"10 miles SE of Ft. Pierce,  FL",Florida Power & Light Co.,2
+Saint Lucie 2,/info-finder/reactors/stl2.html,05000389,PWR,"10 miles SE of Ft. Pierce,  FL",Florida Power & Light Co.,2
+Salem 1,/info-finder/reactors/salm1.html,05000272,PWR,"18 miles S of Wilmington,  DE","PSEG Nuclear, LLC",1
+Salem 2,/info-finder/reactors/salm2.html,05000311,PWR,"18 miles S of Wilmington,  DE","PSEG Nuclear, LLC",1
+Seabrook 1,/info-finder/reactors/seab1.html,05000443,PWR,"13 miles S of Portsmouth,  NH","NextEra Energy Seabrook, LLC",1
+Sequoyah 1,/info-finder/reactors/seq1.html,05000327,PWR,"16 miles NE of Chattanooga,  TN",Tennessee Valley Authority,2
+Sequoyah 2,/info-finder/reactors/seq2.html,05000328,PWR,"16 miles NE of Chattanooga,  TN",Tennessee Valley Authority,2
+Shearon Harris 1,/info-finder/reactors/har1.html,05000400,PWR,"20 miles SW of Raleigh,  NC",Progress Energy,2
+South Texas 1,/info-finder/reactors/stp1.html,05000498,PWR,"90 miles SW of Houston, TX",STP Nuclear Operating Co.,4
+South Texas 2,/info-finder/reactors/stp2.html,05000499,PWR,"90 miles SW of Houston, TX",STP Nuclear Operating Co.,4
+Summer,/info-finder/reactors/sum.html,05000395,PWR,"26 miles NW of Columbia,  SC",South Carolina Electric & Gas Co.,2
+Surry 1,/info-finder/reactors/sur1.html,05000280,PWR,"17 miles NW of Newport News,  VA",Dominion Generation,2
+Surry 2,/info-finder/reactors/sur2.html,05000281,PWR,"17 miles NW of Newport News,  VA",Dominion Generation,2
+Susquehanna 1,/info-finder/reactors/susq1.html,05000387,BWR,"70 miles NE of Harrisburg,  PA","Susquehanna Nuclear,  LLC",1
+Susquehanna 2,/info-finder/reactors/susq2.html,05000388,BWR,"70 miles NE of Harrisburg,  PA","Susquehanna Nuclear,  LLC",1
+Three Mile Island 1,/info-finder/reactors/tmi1.html,05000289,PWR,"10 miles SE of Harrisburg,  PA","Exelon Generation Co., LLC",1
+Turkey Point 3,/info-finder/reactors/tp3.html,05000250,PWR,"20 miles S of Miami,  FL",Florida Power & Light Co.,2
+Turkey Point 4,/info-finder/reactors/tp4.html,05000251,PWR,"20 miles S of Miami,  FL",Florida Power & Light Co.,2
+Vogtle 1,/info-finder/reactors/vog1.html,05000424,PWR,"26 miles SE of Augusta,  GA",Southern Nuclear Operating Co.,2
+Vogtle 2,/info-finder/reactors/vog2.html,05000425,PWR,"26 miles SE of Augusta,  GA",Southern Nuclear Operating Co.,2
+Waterford 3,/info-finder/reactors/wat3.html,05000382,PWR,"25 miles W of New Orleans,  LA","Entergy Nuclear Operations, Inc.",4
+Watts Bar 1,/info-finder/reactors/wb1.html,05000390,PWR,"60 miles SW of Knoxville,  TN",Tennessee Valley Authority,2
+Watts Bar 2,/info-finder/reactors/wb2.html,05000391,PWR,"60 miles SW of Knoxville,  TN",Tennessee Valley Authority,2
+Wolf Creek 1,/info-finder/reactors/wc.html,05000482,PWR,"3.5 miles NE of Burlington,  KS",Wolf Creek Nuclear Operating Corp.,4
